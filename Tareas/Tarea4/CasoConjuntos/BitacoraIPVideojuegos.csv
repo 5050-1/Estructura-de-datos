@@ -1,0 +1,203 @@
+IP,País,FechaHora,Actividad
+192.168.34.12,México,2026-09-13 18:45:23,Inicio de sesión exitoso
+85.214.77.91,Alemania,2026-09-13 18:46:10,Creación de personaje
+201.120.55.33,Argentina,2026-09-13 18:47:02,Ingreso a sala multijugador
+66.249.65.88,Estados Unidos,2026-09-13 18:48:15,Compra de ítems en tienda
+203.0.113.45,Chile,2026-09-13 18:49:44,Desconexión inesperada
+45.67.123.9,España,2026-09-13 18:50:30,Victoria en partida ranked
+177.89.44.21,Brasil,2026-09-13 18:51:12,Reporte de otro jugador
+102.54.33.77,Sudáfrica,2026-09-13 18:52:05,Acceso al servidor principal
+123.45.67.89,India,2026-09-13 18:53:20,Chat global: “Hola equipo”
+154.12.98.34,Canadá,2026-09-13 18:54:01,Actualización de perfil
+78.45.23.67,Francia,2026-09-13 18:55:12,Inicio de partida rápida
+190.85.44.12,Colombia,2026-09-13 18:56:33,Derrota en partida ranked
+210.45.67.23,Australia,2026-09-13 18:57:44,Desbloqueo de logro
+95.33.21.77,Italia,2026-09-13 18:58:55,Envío de invitación a amigo
+200.33.45.12,México,2026-09-13 18:59:12,Compra de pase de batalla
+88.12.45.67,Rusia,2026-09-13 19:00:23,Intento fallido de inicio de sesión
+134.56.78.90,Reino Unido,2026-09-13 19:01:34,Ingreso a torneo semanal
+201.45.67.89,Perú,2026-09-13 19:02:45,Chat privado con jugador
+203.45.67.12,Corea del Sur,2026-09-13 19:03:56,Victoria en partida casual
+189.45.67.23,México,2026-09-13 19:04:12,Reporte de bug en juego
+178.45.67.90,España,2026-09-13 19:05:33,Inicio de sesión exitoso
+45.67.89.12,Brasil,2026-09-13 19:06:44,Ingreso a sala multijugador
+201.45.67.34,Argentina,2026-09-13 19:07:55,Compra de ítems en tienda
+66.249.65.99,Estados Unidos,2026-09-13 19:08:12,Victoria en partida ranked
+203.0.113.56,Chile,2026-09-13 19:09:23,Desconexión inesperada
+45.67.123.10,España,2026-09-13 19:10:34,Reporte de otro jugador
+177.89.44.22,Brasil,2026-09-13 19:11:45,Acceso al servidor principal
+102.54.33.78,Sudáfrica,2026-09-13 19:12:56,Chat global: “Buen juego”
+123.45.67.90,India,2026-09-13 19:13:12,Actualización de perfil
+154.12.98.35,Canadá,2026-09-13 19:14:23,Inicio de partida rápida
+78.45.23.68,Francia,2026-09-13 19:15:34,Derrota en partida ranked
+190.85.44.13,Colombia,2026-09-13 19:16:45,Desbloqueo de logro
+210.45.67.24,Australia,2026-09-13 19:17:56,Envío de invitación a amigo
+95.33.21.78,Italia,2026-09-13 19:18:12,Compra de pase de batalla
+200.33.45.13,México,2026-09-13 19:19:23,Intento fallido de inicio de sesión
+88.12.45.68,Rusia,2026-09-13 19:20:34,Ingreso a torneo semanal
+134.56.78.91,Reino Unido,2026-09-13 19:21:45,Chat privado con jugador
+201.45.67.90,Perú,2026-09-13 19:22:56,Victoria en partida casual
+203.45.67.13,Corea del Sur,2026-09-13 19:23:12,Reporte de bug en juego
+189.45.67.24,México,2026-09-13 19:24:23,Inicio de sesión exitoso
+178.45.67.91,España,2026-09-13 19:25:34,Ingreso a sala multijugador
+45.67.89.13,Brasil,2026-09-13 19:26:45,Compra de ítems en tienda
+201.45.67.35,Argentina,2026-09-13 19:27:56,Victoria en partida ranked
+66.249.65.100,Estados Unidos,2026-09-13 19:28:12,Desconexión inesperada
+203.0.113.57,Chile,2026-09-13 19:29:23,Reporte de otro jugador
+192.168.34.12,México,2026-09-13 19:30:44,Chat privado con jugador
+85.214.77.91,Alemania,2026-09-13 19:31:55,Intento fallido de inicio de sesión
+201.120.55.33,Argentina,2026-09-13 19:32:12,Victoria en partida casual
+66.249.65.88,Estados Unidos,2026-09-13 19:33:23,Reporte de bug en juego
+203.0.113.45,Chile,2026-09-13 19:34:34,Compra de pase de batalla
+45.67.123.11,España,2026-09-13 19:35:45,Acceso al servidor principal
+177.89.44.23,Brasil,2026-09-13 19:36:56,Chat global: “Vamos equipo”
+102.54.33.79,Sudáfrica,2026-09-13 19:37:12,Actualización de perfil
+123.45.67.91,India,2026-09-13 19:38:23,Inicio de partida rápida
+154.12.98.36,Canadá,2026-09-13 19:39:34,Derrota en partida ranked
+78.45.23.69,Francia,2026-09-13 19:40:45,Desbloqueo de logro
+190.85.44.14,Colombia,2026-09-13 19:41:56,Envío de invitación a amigo
+210.45.67.25,Australia,2026-09-13 19:42:12,Compra de pase de batalla
+95.33.21.79,Italia,2026-09-13 19:43:23,Intento fallido de inicio de sesión
+200.33.45.14,México,2026-09-13 19:44:34,Ingreso a torneo semanal
+88.12.45.69,Rusia,2026-09-13 19:45:45,Chat privado con jugador
+134.56.78.92,Reino Unido,2026-09-13 19:46:56,Victoria en partida casual
+201.45.67.91,Perú,2026-09-13 19:47:12,Reporte de bug en juego
+203.45.67.14,Corea del Sur,2026-09-13 19:48:23,Inicio de sesión exitoso
+189.45.67.25,México,2026-09-13 19:49:34,Ingreso a sala multijugador
+178.45.67.92,España,2026-09-13 19:50:45,Compra de ítems en tienda
+45.67.89.14,Brasil,2026-09-13 19:51:56,Victoria en partida ranked
+201.45.67.36,Argentina,2026-09-13 19:52:12,Desconexión inesperada
+66.249.65.101,Estados Unidos,2026-09-13 19:53:23,Reporte de otro jugador
+203.0.113.58,Chile,2026-09-13 19:54:34,Acceso al servidor principal
+192.168.34.12,México,2026-09-13 19:55:45,Victoria en partida casual
+85.214.77.91,Alemania,2026-09-13 19:56:56,Ingreso a torneo semanal
+201.120.55.33,Argentina,2026-09-13 19:57:12,Chat global: “GG”
+66.249.65.88,Estados Unidos,2026-09-13 19:58:23,Envío de invitación a amigo
+203.0.113.45,Chile,2026-09-13 19:59:34,Inicio de partida rápida
+45.67.123.12,España,2026-09-13 20:00:45,Derrota en partida ranked
+177.89.44.24,Brasil,2026-09-13 20:01:56,Desbloqueo de logro
+102.54.33.80,Sudáfrica,2026-09-13 20:02:12,Compra de pase de batalla
+123.45.67.92,India,2026-09-13 20:03:23,Intento fallido de inicio de sesión
+154.12.98.37,Canadá,2026-09-13 20:04:34,Ingreso a torneo semanal
+78.45.23.70,Francia,2026-09-13 20:05:45,Chat privado con jugador
+190.85.44.15,Colombia,2026-09-13 20:06:56,Victoria en partida casual
+210.45.67.26,Australia,2026-09-13 20:07:12,Reporte de bug en juego
+95.33.21.80,Italia,2026-09-13 20:08:23,Inicio de sesión exitoso
+200.33.45.15,México,2026-09-13 20:09:34,Ingreso a sala multijugador
+88.12.45.70,Rusia,2026-09-13 20:10:45,Compra de ítems en tienda
+134.56.78.93,Reino Unido,2026-09-13 20:11:56,Victoria en partida ranked
+201.45.67.92,Perú,2026-09-13 20:12:12,Desconexión inesperada
+203.45.67.15,Corea del Sur,2026-09-13 20:13:23,Reporte de otro jugador
+189.45.67.26,México,2026-09-13 20:14:34,Acceso al servidor principal
+178.45.67.93,España,2026-09-13 20:15:45,Chat global: “Buen juego”
+45.67.89.15,Brasil,2026-09-13 20:16:56,Actualización de perfil
+201.45.67.37,Argentina,2026-09-13 20:17:12,Inicio de partida rápida
+66.249.65.102,Estados Unidos,2026-09-13 20:18:23,Derrota en partida ranked
+203.0.113.59,Chile,2026-09-13 20:19:34,Desbloqueo de logro
+192.168.34.12,México,2026-09-13 20:20:45,Chat privado con jugador
+85.214.77.91,Alemania,2026-09-13 20:21:56,Compra de pase de batalla
+201.120.55.33,Argentina,2026-09-13 20:22:12,Intento fallido de inicio de sesión
+66.249.65.88,Estados Unidos,2026-09-13 20:23:23,Ingreso a torneo semanal
+203.0.113.45,Chile,2026-09-13 20:24:34,Chat privado con jugador
+45.67.123.13,España,2026-09-13 20:25:45,Victoria en partida ranked
+177.89.44.25,Brasil,2026-09-13 20:26:56,Reporte de bug en juego
+102.54.33.81,Sudáfrica,2026-09-13 20:27:12,Inicio de sesión exitoso
+123.45.67.93,India,2026-09-13 20:28:23,Ingreso a sala multijugador
+154.12.98.38,Canadá,2026-09-13 20:29:34,Compra de ítems en tienda
+78.45.23.71,Francia,2026-09-13 20:30:45,Victoria en partida casual
+190.85.44.16,Colombia,2026-09-13 20:31:56,Chat global: “GG”
+210.45.67.27,Australia,2026-09-13 20:32:12,Reporte de otro jugador
+95.33.21.81,Italia,2026-09-13 20:33:23,Acceso al servidor principal
+200.33.45.16,México,2026-09-13 20:34:34,Chat privado con jugador
+88.12.45.71,Rusia,2026-09-13 20:35:45,Actualización de perfil
+134.56.78.94,Reino Unido,2026-09-13 20:36:56,Inicio de partida rápida
+201.45.67.93,Perú,2026-09-13 20:37:12,Derrota en partida ranked
+203.45.67.16,Corea del Sur,2026-09-13 20:38:23,Desbloqueo de logro
+189.45.67.27,México,2026-09-13 20:39:34,Envío de invitación a amigo
+178.45.67.94,España,2026-09-13 20:40:45,Compra de pase de batalla
+45.67.89.16,Brasil,2026-09-13 20:41:56,Intento fallido de inicio de sesión
+201.45.67.38,Argentina,2026-09-13 20:42:12,Ingreso a torneo semanal
+66.249.65.103,Estados Unidos,2026-09-13 20:43:23,Chat privado con jugador
+203.0.113.60,Chile,2026-09-13 20:44:34,Victoria en partida casual
+192.168.34.12,México,2026-09-13 20:45:45,Reporte de bug en juego
+85.214.77.91,Alemania,2026-09-13 20:46:56,Inicio de sesión exitoso
+201.120.55.33,Argentina,2026-09-13 20:47:12,Ingreso a sala multijugador
+66.249.65.88,Estados Unidos,2026-09-13 20:48:23,Compra de ítems en tienda
+203.0.113.45,Chile,2026-09-13 20:49:34,Victoria en partida ranked
+45.67.123.14,España,2026-09-13 20:50:45,Desconexión inesperada
+177.89.44.26,Brasil,2026-09-13 20:51:56,Reporte de otro jugador
+102.54.33.82,Sudáfrica,2026-09-13 20:52:12,Acceso al servidor principal
+123.45.67.94,India,2026-09-13 20:53:23,Chat global: “Hola equipo”
+154.12.98.39,Canadá,2026-09-13 20:54:34,Actualización de perfil
+78.45.23.72,Francia,2026-09-13 20:55:45,Inicio de partida rápida
+190.85.44.17,Colombia,2026-09-13 20:56:56,Derrota en partida ranked
+210.45.67.28,Australia,2026-09-13 20:57:12,Desbloqueo de logro
+95.33.21.82,Italia,2026-09-13 20:58:23,Envío de invitación a amigo
+200.33.45.17,México,2026-09-13 20:59:34,Compra de pase de batalla
+88.12.45.72,Rusia,2026-09-13 21:00:45,Intento fallido de inicio de sesión
+134.56.78.95,Reino Unido,2026-09-13 21:01:56,Ingreso a torneo semanal
+201.45.67.94,Perú,2026-09-13 21:02:12,Chat privado con jugador
+203.45.67.17,Corea del Sur,2026-09-13 21:03:23,Victoria en partida casual
+189.45.67.28,México,2026-09-13 21:04:34,Reporte de bug en juego
+178.45.67.95,España,2026-09-13 21:05:45,Inicio de sesión exitoso
+45.67.89.17,Brasil,2026-09-13 21:06:56,Ingreso a sala multijugador
+201.45.67.39,Argentina,2026-09-13 21:07:12,Compra de ítems en tienda
+66.249.65.104,Estados Unidos,2026-09-13 21:08:23,Victoria en partida ranked
+203.0.113.61,Chile,2026-09-13 21:09:34,Desconexión inesperada
+192.168.34.12,México,2026-09-13 21:10:45,Chat global: “Vamos equipo”
+85.214.77.91,Alemania,2026-09-13 21:11:56,Actualización de perfil
+201.120.55.33,Argentina,2026-09-13 21:12:12,Inicio de partida rápida
+66.249.65.88,Estados Unidos,2026-09-13 21:13:23,Derrota en partida ranked
+203.0.113.45,Chile,2026-09-13 21:14:34,Desbloqueo de logro
+45.67.123.15,España,2026-09-13 21:15:45,Reporte de bug en juego
+177.89.44.27,Brasil,2026-09-13 21:16:56,Inicio de sesión exitoso
+102.54.33.83,Sudáfrica,2026-09-13 21:17:12,Ingreso a sala multijugador
+123.45.67.95,India,2026-09-13 21:18:23,Compra de ítems en tienda
+154.12.98.40,Canadá,2026-09-13 21:19:34,Victoria en partida ranked
+78.45.23.73,Francia,2026-09-13 21:20:45,Desconexión inesperada
+190.85.44.18,Colombia,2026-09-13 21:21:56,Reporte de otro jugador
+210.45.67.29,Australia,2026-09-13 21:22:12,Acceso al servidor principal
+95.33.21.83,Italia,2026-09-13 21:23:23,Chat global: “Buen juego”
+200.33.45.18,México,2026-09-13 21:24:34,Actualización de perfil
+88.12.45.73,Rusia,2026-09-13 21:25:45,Inicio de partida rápida
+134.56.78.96,Reino Unido,2026-09-13 21:26:56,Derrota en partida ranked
+201.45.67.95,Perú,2026-09-13 21:27:12,Desbloqueo de logro
+203.45.67.18,Corea del Sur,2026-09-13 21:28:23,Envío de invitación a amigo
+189.45.67.29,México,2026-09-13 21:29:34,Compra de pase de batalla
+178.45.67.96,España,2026-09-13 21:30:45,Intento fallido de inicio de sesión
+45.67.89.18,Brasil,2026-09-13 21:31:56,Ingreso a torneo semanal
+201.45.67.40,Argentina,2026-09-13 21:32:12,Chat privado con jugador
+66.249.65.105,Estados Unidos,2026-09-13 21:33:23,Victoria en partida casual
+203.0.113.62,Chile,2026-09-13 21:34:34,Reporte de bug en juego
+192.168.34.12,México,2026-09-13 21:35:45,Inicio de sesión exitoso
+85.214.77.91,Alemania,2026-09-13 21:36:56,Ingreso a sala multijugador
+201.120.55.33,Argentina,2026-09-13 21:37:12,Compra de ítems en tienda
+66.249.65.88,Estados Unidos,2026-09-13 21:38:23,Victoria en partida ranked
+203.0.113.45,Chile,2026-09-13 21:39:34,Desconexión inesperada
+45.67.123.16,España,2026-09-13 21:40:45,Reporte de otro jugador
+177.89.44.28,Brasil,2026-09-13 21:41:56,Acceso al servidor principal
+102.54.33.84,Sudáfrica,2026-09-13 21:42:12,Chat global: “GG”
+123.45.67.96,India,2026-09-13 21:43:23,Actualización de perfil
+154.12.98.41,Canadá,2026-09-13 21:44:34,Inicio de partida rápida
+78.45.23.74,Francia,2026-09-13 21:45:45,Derrota en partida ranked
+190.85.44.19,Colombia,2026-09-13 21:46:56,Desbloqueo de logro
+210.45.67.30,Australia,2026-09-13 21:47:12,Envío de invitación a amigo
+95.33.21.84,Italia,2026-09-13 21:48:23,Compra de pase de batalla
+200.33.45.19,México,2026-09-13 21:49:34,Intento fallido de inicio de sesión
+88.12.45.74,Rusia,2026-09-13 21:50:45,Ingreso a torneo semanal
+134.56.78.97,Reino Unido,2026-09-13 21:51:56,Chat privado con jugador
+201.45.67.96,Perú,2026-09-13 21:52:12,Victoria en partida casual
+203.45.67.19,Corea del Sur,2026-09-13 21:53:23,Reporte de bug en juego
+189.45.67.30,México,2026-09-13 21:54:34,Inicio de sesión exitoso
+178.45.67.97,España,2026-09-13 21:55:45,Ingreso a sala multijugador
+45.67.89.19,Brasil,2026-09-13 21:56:56,Compra de ítems en tienda
+201.45.67.41,Argentina,2026-09-13 21:57:12,Victoria en partida ranked
+66.249.65.106,Estados Unidos,2026-09-13 21:58:23,Desconexión inesperada
+203.0.113.63,Chile,2026-09-13 21:59:34,Reporte de otro jugador
+192.168.34.12,México,2026-09-13 22:00:45,Acceso al servidor principal
+85.214.77.91,Alemania,2026-09-13 22:01:56,Chat global: “Vamos equipo”
+201.120.55.33,Argentina,2026-09-13 22:02:12,Actualización de perfil
+66.249.65.88,Estados Unidos,2026-09-13 22:03:23,Inicio de partida rápida
+203.0.113.45,Chile,2026-09-13 22:04:34,Derrota en partida ranked
+
+
